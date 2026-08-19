@@ -50,6 +50,5 @@ This project demonstrates the use of Python-based data analysis and visualizatio
 
 Nayana Praveen
 
-B.Sc. Computer Science | Aspiring Data Scientist
 
 B.Sc. Computer Science | Aspiring Data Scientist
