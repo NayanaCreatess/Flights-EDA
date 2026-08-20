@@ -1,14 +1,14 @@
 # ✈️ Flights EDA
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on Exploratory Data Analysis (EDA) of flight data. The aim is to clean, explore, analyze, and visualize the dataset to identify useful patterns, trends, and insights.
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains information about flights and related attributes. It is used to explore different aspects of flight operations through statistical analysis and visualization.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas
@@ -17,7 +17,7 @@ The dataset contains information about flights and related attributes. It is use
 - Seaborn
 - Jupyter Notebook
 
-## 🔍 Analysis Performed
+## Analysis Performed
 
 - Data loading and inspection
 - Data cleaning
@@ -28,7 +28,7 @@ The dataset contains information about flights and related attributes. It is use
 - Data visualization
 - Identifying trends and patterns
 
-## 📈 Visualizations
+## Visualizations
 
 The project includes different charts such as:
 
@@ -38,15 +38,15 @@ The project includes different charts such as:
 - Scatter plots
 - Count plots
 
-## 💡 Key Insights
+## Key Insights
 
 The analysis helps identify important patterns and relationships within the flight dataset, providing a better understanding of the data and its characteristics.
 
-## 🚀 Conclusion
+## Conclusion
 
 This project demonstrates the use of Python-based data analysis and visualization techniques to perform EDA on a real-world dataset.
 
-## 👩‍💻 Author
+## Author
 
 Nayana Praveen
 
